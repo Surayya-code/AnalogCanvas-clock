@@ -1,0 +1,13 @@
+#canvas{
+  border-radius: 50%;
+    position: absolute;
+    align-items: center;
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/71yMn02LMOL._SX466_.jpg);
+    border: 6px solid #4a04eeea;
+    left: 200px;
+}
+
+h1{
+    text-align: center;
+    
+}
